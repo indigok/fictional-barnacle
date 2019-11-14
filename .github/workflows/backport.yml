@@ -5,7 +5,7 @@
       types: labeled
       branches:
       - master
-      - hmharvey-patch-1
+      - 'hmharvey-patch-1'
 
   jobs:
     backport:
